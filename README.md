@@ -1,4 +1,4 @@
-# mama_recipe_app
+# blanja_app_fe
 <div align="center"><img src="https://github.com/ainurcoding/blanja_app_fe/blob/master/src/assets/images/blanja_icon.png" height="50" width="50"/></div>
 <div align='center'><a href='https://github.com/ainurcoding/blanja_app_api'> >>Visit backend repository<< </a></div>
 <hr />
@@ -277,6 +277,22 @@ Eject The Application
 <a href='#table-of-content'>Back to top</a>
 <hr />
 
+### Contributor
+
+Contributors name and contact info
+
+* FULLSTACK TEAM (Backend & Frontend)
+  * Muhammad Rhefa Farizi [@reijiren](https://github.com/reijiren)
+  * Rahmat Furqon [@sukron21](https://github.com/sukron21)
+
+* FRONTEND TEAM
+  * Ainur Ridwan [@ainurcoding](https://github.com/ainurcoding)
+  * Ichsan Ramadhan Mokodompit [@IchsanR](https://github.com/IchsanR)
+  * Muhamad Iqbal Aprido [@Iqbalapredo](https://github.com/Iqbalapredo)
+
+<a href='#table-of-content'>Back to top</a>
+<hr />
+
 ### Packages Included 
 
 - <p id='packages-included'>NPM dependencies</p>
@@ -325,6 +341,6 @@ Eject The Application
 <a href='#table-of-content'>Back to top</a>
 
 <div align='center'>
-:copyright: Ainur Ridwan, 2022
+:copyright: yakusa-team, 2022
 </div>
 
