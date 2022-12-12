@@ -152,126 +152,126 @@ Eject The Application
   <summary>
     Landing Page
   </summary>
-<img src="./screenshot/landing.png" alt="landing page" />
+<img src="https://github.com/reijiren/BlanjaApp/blob/main/screenshot/landing.png" alt="landing page" />
 </details>
 
 <details>
   <summary>
     Search Product Page
   </summary>
-<img src="./screenshot/search_product.png" alt="search product page" />
+<img src="https://github.com/reijiren/BlanjaApp/blob/main/screenshot/search_product.png" alt="search product page" />
 </details>
 
 <details>
   <summary>
     Product Detail Page
   </summary>
-<img src="./screenshot/product_detail.png" alt="product detail page" />
+<img src="https://github.com/reijiren/BlanjaApp/blob/main/screenshot/product_detail.png" alt="product detail page" />
 </details>
 
 <details>
   <summary>
     Chat Page
   </summary>
-<img src="./screenshot/chat.png" alt="chat page" />
+<img src="https://github.com/reijiren/BlanjaApp/blob/main/screenshot/chat.png" alt="chat page" />
 </details>
 
 <details>
   <summary>
     MyBag Page
   </summary>
-<img src="./screenshot/mybag.png" alt="mybag page" />
+<img src="https://github.com/reijiren/BlanjaApp/blob/main/screenshot/mybag.png" alt="mybag page" />
 </details>
 
 <details>
   <summary>
     Checkout Page
   </summary>
-<img src="./screenshot/checkout.png" alt="checkout page" />
+<img src="https://github.com/reijiren/BlanjaApp/blob/main/screenshot/checkout.png" alt="checkout page" />
 </details>
 
 <details>
   <summary>
-    Customer Profile
+    Customer Profile Page
   </summary>
-<img src="./screenshot/profil_customer.png" alt="customer profile" />
+<img src="https://github.com/reijiren/BlanjaApp/blob/main/screenshot/profil_customer.png" alt="customer profile" />
 </details>
 
 <details>
   <summary>
-    Customer Address
+    Customer Address Page
   </summary>
-<img src="./screenshot/customer_address.png" alt="customer address" />
+<img src="https://github.com/reijiren/BlanjaApp/blob/main/screenshot/customer_address.png" alt="customer address" />
 </details>
 
 <details>
   <summary>
-    Customer MyOrder
+    Customer MyOrder Page
   </summary>
-<img src="./screenshot/myorder.png" alt="myorder" />
+<img src="https://github.com/reijiren/BlanjaApp/blob/main/screenshot/myorder.png" alt="myorder" />
 </details>
 
 <details>
   <summary>
-    Seller Profile
+    Seller Profile Page
   </summary>
-<img src="./screenshot/seller_profile.png" alt="seller profile" />
+<img src="https://github.com/reijiren/BlanjaApp/blob/main/screenshot/seller_profile.png" alt="seller profile" />
 </details>
 
 <details>
   <summary>
-    Seller MyProduct
+    Seller MyProduct Page
   </summary>
-<img src="./screenshot/myproduct.png" alt="myproduct" />
+<img src="https://github.com/reijiren/BlanjaApp/blob/main/screenshot/myproduct.png" alt="myproduct" />
 </details>
 
 <details>
   <summary>
-    Seller Edit Product
+    Seller Edit Product Page
   </summary>
-<img src="./screenshot/update_product.png" alt="update product" />
+<img src="https://github.com/reijiren/BlanjaApp/blob/main/screenshot/update_product.png" alt="update product" />
 </details>
 
 <details>
   <summary>
-    Seller Insert Product
+    Seller Insert Product Page
   </summary>
-<img src="./screenshot/seller_insert_product.png" alt="insert product" />
+<img src="https://github.com/reijiren/BlanjaApp/blob/main/screenshot/seller_insert_product.png" alt="insert product" />
 </details>
 
 <details>
   <summary>
-    Seller Orders
+    Seller Orders Page
   </summary>
-<img src="./screenshot/seller_order.png" alt="seller order" />
+<img src="https://github.com/reijiren/BlanjaApp/blob/main/screenshot/seller_order.png" alt="seller order" />
 </details>
 
 <details>
   <summary>
-    Admin Login
+    Login Page Admin
   </summary>
 <img src="./screenshot/admin/admin_login.png" alt="admin login" />
 </details>
 
 <details>
   <summary>
-    Admin Landing
+    Landing Page Admin
   </summary>
 <img src="./screenshot/admin/admin_landing.png" alt="admin landing" />
 </details>
 
 <details>
   <summary>
-    Admin List Order
+    List Order Admin
   </summary>
-<img src="./screenshot/admin/admin_order_list.png" alt="admin list order" />
+<img src="https://github.com/reijiren/BlanjaApp/blob/main/screenshot/admin/admin_order_list.png" alt="admin list order" />
 </details>
 
 <details>
   <summary>
-    Admin List Product
+    List Product Admin
   </summary>
-<img src="./screenshot/admin/admin_product_list.png" alt="admin list product" />
+<img src="https://github.com/reijiren/BlanjaApp/blob/main/screenshot/admin/admin_product_list.png" alt="admin list product" />
 </details>
 
 <a href='#table-of-content'>Back to top</a>
@@ -323,7 +323,7 @@ Contributors name and contact info
 
 ### Demo Application
 <p id='demo-application'><a href='https://github.com/ainurcoding/blanja_app_api'>Visit backend repository</a></p>
-<p>Visit this link for app demo <a href='https://blanja-app-fe.vercel.app/'>Blanja App</a></p>
+<p>Visit this link for app demo <a href='https://blanja-yksd.vercel.app/'>Blanja App</a></p>
 
 <a href='#table-of-content'>Back to top</a>
 <hr />
